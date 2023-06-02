@@ -1,17 +1,7 @@
 # namer_app
 
-A new Flutter project.
+A very basic Flutter application, built to learn the basics of both Flutter and Dart.
 
-## Getting Started
+This application generates a random word that is a combination of two other random words. The favorite combinations can be favourited and viewed in the favourites tab.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter-word-generator
+Everything was built with the guidance of the Flutter interactive Lab that is provided in their documentation.
